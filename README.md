@@ -1,4 +1,4 @@
-#Restaurant Web Sitesi - Demo 
+Restaurant Web Sitesi - Demo 
 **Açıklama:**  
 Tüm sayfa interaktif ve responsive.Bu proje, HTML, CSS ve JavaScript kullanılarak hazırlanmış interaktif restaurant web sitesi frontend demo’sudur. Proje, kullanıcı deneyimini ve frontend tasarım becerilerini göstermek amacıyla tasarlanmıştır. Tüm linkler tıklanabilir, hover efektleri uygulanmıştır. Backend yoktur, yani sipariş veremez veya veri kaydedemezsiniz; amaç tasarım ve etkileşimi gözlemlemektir.
 
