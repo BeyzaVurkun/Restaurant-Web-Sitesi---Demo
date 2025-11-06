@@ -52,3 +52,8 @@ Tüm sayfa interaktif ve responsive.Bu proje, HTML, CSS ve JavaScript kullanıla
 - Arama kutusu ve buton hover efektli.
 - Sosyal medya ikonları hover’da renk değiştirir.
 - Sayfa linkleri hover ile renk değiştirir her link ilgili bölüme yönlendirir, aktif link vurgulanır.
+
+## Teknolojiler
+- HTML5
+- CSS3
+- JavaScript
